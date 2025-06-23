@@ -135,14 +135,23 @@
 			}
 		},
 		{
+			"name": "Types",
+			"scope": [
+				"entity.name.type"
+			],
+			"settings": {
+				"fontStyle": "italic",
+				"foreground": "#a31f61" // 0093e9
+			}
+		},
+		{
 			"name": "Classes",
 			"scope": [
-				"entity.name.type",
 				"entity.other.inherited-class",
 				"support.class"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "bold",
 				"foreground": "#a31f61" // 0093e9
 			}
 		},
