@@ -30,6 +30,11 @@
 		"editorBracketHighlight.foreground3": "#134588",
 		"editorBracketHighlight.unexpectedBracket.foreground": "#b60c0c"
 	},
+	"semanticTokenColors": {
+		"variable.readonly.defaultLibrary": "#460e2a",
+		"property": "#771950",
+		"parameter": "#492e3a"
+	},
 	"tokenColors": [
 		{
 			"name": "Comments",
